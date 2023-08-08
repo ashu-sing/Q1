@@ -1,9 +1,10 @@
 Deployed Link : https://steeleye-q1.vercel.app/
 
-Step 1: Cloning and Opening the Repository
+Step 1: Cloning and Opening the Repository :-
+
 Opened the cloned repository in Vs Code editor.
 
-Step 2: In this Repository I have tried to Solve Several Issues
+Step 2: In this Repository I have tried to Solve Several Issues :-
 
 a) Display Total Number of Orders in Header:
 In the header component, updated the title to display the total number of orders from the data.
